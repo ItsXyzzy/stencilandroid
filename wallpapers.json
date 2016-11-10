@@ -1,1 +1,34 @@
-
+{
+  "wallpapers": [
+    {
+      "author": "Craig Dowdall",
+      "url": "https://raw.githubusercontent.com/ItsXyzzy/stencilandroid/master/Tint_1478770517369.png",
+      "name": "Inky Sky",
+    },
+    {
+      "author": "Craig Dowdall",
+      "url": "https://raw.githubusercontent.com/ItsXyzzy/stencilandroid/master/Tint_1478804761572.png",
+      "name": "80's Purple",
+    },
+    {
+      "author": "Craig Dowdall",
+      "url": "https://raw.githubusercontent.com/ItsXyzzy/stencilandroid/master/Tint_1478804893124.png",
+      "name": "Haikus",
+    },
+    {
+      "author": "Craig Dowdall",
+      "url": "https://github.com/ItsXyzzy/stencilandroid/blob/master/Tint_1478804940597.png?raw=true",
+      "name": "Passion",
+    },
+    {
+      "author": "Craig Dowdall",
+      "url": "https://github.com/ItsXyzzy/stencilandroid/blob/master/Tint_1478804995046.png?raw=true",
+      "name": "Sirens",
+    },
+    {
+      "author": "Craig Dowdall",
+      "url": "https://github.com/ItsXyzzy/stencilandroid/blob/master/Tint_1478805129373.png?raw=true",
+      "name": "Stellar",
+    }
+  ]
+}
